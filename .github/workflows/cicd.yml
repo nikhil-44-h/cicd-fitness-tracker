@@ -11,7 +11,7 @@ on:
 
 env:
   DOCKERHUB_USERNAME: nikhil07h07
-  DOCKERHUB_PASSWORD: @Sreenikhil_07
+  DOCKERHUB_PASSWORD: '@Sreenikhil_07'
   FRONTEND_IMAGE: fitness-tracker-frontend
   BACKEND_IMAGE: fitness-tracker-backend
 
